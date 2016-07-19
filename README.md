@@ -8,4 +8,19 @@ A repo that holds all the personal projects covered during my tenure in Moringa.
 
 
 
-The first thing to be viewed is the project name, link to the repo, project details(a project that deals with blah blah blah ), features, tools used, contributors.
+1.
+
+          USER EXPERIENCE
+
+Repo link-
+              https://github.com/WinnyTroy/2016-07-07-user-experience-foundation-trials
+
+Project details-
+              Webpage practising offsetting and overlay. A touch of foundation.
+
+Features-
+          Title, Landing Section, About Section, Contact Section.
+Tools-
+        Foundation 6, Google fonts,
+Contributors-
+        WinnyTroy
