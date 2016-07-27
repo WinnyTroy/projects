@@ -19,9 +19,9 @@ Contributors-
 
 # PERSONAL PROJECTS
 
-#### Front-End Projects
+## Front-End Projects
 
-# 1. KU-BabyCare
+#### 1. KU-BabyCare
 
 Repo link-
               https://github.com/WinnyTroy/2016-07-21-kenyatta-BabyCare
@@ -39,7 +39,7 @@ Contributors-
         
        
 
-# 2. USER EXPERIENCE
+#### 2. USER EXPERIENCE
          
 
 Repo link-
