@@ -1,14 +1,4 @@
-# projects
 
-A repo that holds all the personal projects covered during my tenure in Moringa.
-3 in front end
-1 in python(backend)
-1 mobile development
-
-
-
-
-1.
 
 # PORTFORLIO
          
@@ -27,10 +17,11 @@ Contributors-
         WinnyTroy
 
 
-1.
+# PERSONAL PROJECTS
 
-# KU-BabyCare
-         
+# Front-End Projects
+
+# 1. KU-BabyCare
 
 Repo link-
               https://github.com/WinnyTroy/2016-07-21-kenyatta-BabyCare
@@ -46,10 +37,9 @@ Contributors-
         WinnyTroy
         
         
-        
-        1.
+       
 
-# USER EXPERIENCE
+# 2. USER EXPERIENCE
          
 
 Repo link-
