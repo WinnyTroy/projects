@@ -31,8 +31,12 @@ Contributors-
 
 **Features**-
           Home, Landing Section, About Section, Contact Section.
+          
+          
 **Tools**-
         Foundation 6, Google fonts,Animated Background Headers, CSS3, HTML5
+        
+        
 **Contributors**-
         WinnyTroy
         
@@ -50,7 +54,11 @@ Contributors-
 
 **Features**-
           Title, Landing Section, About Section, Contact Section.
+          
+          
 **Tools**-
-        Foundation 6, Google fonts,
+        Foundation 6, Google fonts.
+        
+       
 **Contributors**-
         WinnyTroy
