@@ -1,6 +1,6 @@
 
 
-# PORTFORLIO
+## PORTFORLIO
          
 
 Repo link-
@@ -17,23 +17,23 @@ Contributors-
         WinnyTroy
 
 
-# PERSONAL PROJECTS
+## PERSONAL PROJECTS
 
 ## Front-End Projects
 
 #### 1. KU-BabyCare
 
-Repo link-
+**Repo link**-
               https://github.com/WinnyTroy/2016-07-21-kenyatta-BabyCare
 
-Project details-
+**Project details**-
               Webpage for the KU babycare centre.
 
-Features-
+**Features**-
           Home, Landing Section, About Section, Contact Section.
-Tools-
+**Tools**-
         Foundation 6, Google fonts,Animated Background Headers, CSS3, HTML5
-Contributors-
+**Contributors**-
         WinnyTroy
         
         
@@ -42,15 +42,15 @@ Contributors-
 #### 2. USER EXPERIENCE
          
 
-Repo link-
+**Repo link**-
               https://github.com/WinnyTroy/2016-07-07-user-experience-foundation-trials
 
-Project details-
+**Project details**-
               Webpage practising offsetting and overlay. A touch of foundation.
 
-Features-
+**Features**-
           Title, Landing Section, About Section, Contact Section.
-Tools-
+**Tools**-
         Foundation 6, Google fonts,
-Contributors-
+**Contributors**-
         WinnyTroy
