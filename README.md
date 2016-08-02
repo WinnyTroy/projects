@@ -62,3 +62,24 @@ Contributors-
        
 **Contributors**-
         WinnyTroy
+        
+#### 2. DESEOUR!
+         
+
+**Repo link**-
+              https://github.com/WinnyTroy/2016-07-19-Design-Agency
+
+**Project details**-
+             A website encouraging folks to visit their design agency.
+
+**Features**-
+          About Section, Portforlio Section, Members Section, Contact Section.
+          
+          
+**Tools**-
+        Foundation 6, Google fonts, animate.css .
+        
+       
+**Contributors**-
+        WinnyTroy
+        
